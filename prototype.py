@@ -1,5 +1,11 @@
 #python program to test branching in git
 #run length encoding program 
+'''adding a feature that returns a palindrome of string obtained from lineEncoding function'''
+def palindrome(String):
+    return String[::-1]
+
+
+
 def lineEncoding(s):
     st= ''
 
@@ -19,7 +25,7 @@ def lineEncoding(s):
         else:
             finalstring += i[0]
     return finalstring
-    
-        
-print(lineEncoding('aba'))
+encoding =   lineEncoding('aaaaaabbbbccccddd')
+print("Run length Encoding is " + encoding) 
+print("The palindrome of " + str(encoding) + " is " + palindrome(encoding))
 
