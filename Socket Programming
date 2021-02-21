@@ -1,12 +1,35 @@
-#  SOCKET PROGRAMMING
+# SOCKET PROGRAMMING IN PYTHON 
 
 Goals needed:
     What is socket programming
 
-    How to do it
+    They require three concepts : 
+        * Socket server
+
+        * Socket Client
+
+        * Sockets and the socket API: 
+            * They are used to send messages accross a network.
+
+            * They provide a form of inter-process communication (IPC) which are mechanisms an 
+              operating system provides to allow the processes to manage shared data.
+            
+            * This network can be 
+                - logical
+                - local network to the computer
+                - Physically connected to an external network
+                * eg: internet which you connect to via your ISP 
+
+    
 
     How to apply it
 
-
     Some conclusions
-jsdfhksjfhskjafhksjf
+
+References
+
+    https://realpython.com/python-sockets/#background
+    
+    https://www.journaldev.com/15906/python-socket-programming-server-client
+
+    https://www.geeksforgeeks.org/socket-programming-python/
