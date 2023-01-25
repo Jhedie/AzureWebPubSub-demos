@@ -1,7 +1,0 @@
-1. Socket
-2. Threading
-    - A thread is a subprocess that runs a set of commands individually of any other thread 
-    - APPLICATION INTO CHAT ROOM APPLICATION
-        So, every time a user connects to the server, a separate thread is created 
-        for that user and communication from server to client takes place along 
-        individual threads based on socket objects created for the identity of each client.
