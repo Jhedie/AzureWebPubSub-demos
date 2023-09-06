@@ -1,4 +1,8 @@
-# Serverless Chat Application
+# Web Pub Sub practice demos
+This repo contains some quickstart demos for Web Pub Sub service.
 
-This is a sample serverless application that demonstrates how to build and deploy a serverless application using AWS Lambda and other AWS services.
-https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2bd8e5c5-398d-4554-9302-4b04677a205c_3243x3453.jpeg?utm_source=substack&utm_medium=email
+## Resources
+https://learn.microsoft.com/en-us/azure/azure-web-pubsub/howto-develop-create-instance?tabs=CLI&pivots=method-azure-portal
+
+
+
